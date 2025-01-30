@@ -24,8 +24,8 @@ git clone https://github.com/YathishPoojary98/Unicode-Kannada-to-Shreelipi-Conve
 ```
 Then, navigate into the cloned directory:
 
-bash
-```
+
+```bash
 cd Unicode-Kannada-to-Shreelipi-Converter
 ```
 📌 Usage
@@ -34,13 +34,11 @@ The script accepts one command-line argument:
 Directory Path – The path to the directory containing .txt files to be processed.
 To run the script, use the following command:
 
-bash
-```
+```bash
 python3 <script_name>.py <directory_path>
 ```
 Example
-bash
-```
+```bash
 python3 convert_files.py /path/to/directory
 ```
 🔍 How It Works
