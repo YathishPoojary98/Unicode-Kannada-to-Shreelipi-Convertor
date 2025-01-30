@@ -41,12 +41,17 @@ Example
 ```bash
 python3 convert_files.py /path/to/directory
 ```
-🔍 How It Works
-1️⃣ Input Directory: The script scans the specified directory for .txt files.
-2️⃣ Output Directory: An Output folder is created inside the given directory (if it doesn’t already exist).
-3️⃣ File Processing: Each .txt file is passed to kannada-to-shreelipi.py for conversion.
-4️⃣ Error Handling: If a file fails to be processed, an error message is printed for that specific file.
+## 🔍 How It Works
 
-📂 Example Output
-After running the script, the converted .txt files will be saved in the Output directory within the specified directory.
+1️⃣ **Input Directory:** The script scans the specified directory for `.txt` files.  
+2️⃣ **Output Directory:** An `Output` folder is created inside the given directory (if it doesn’t already exist).  
+3️⃣ **File Processing:** Each `.txt` file is passed to `kannada-to-shreelipi.py` for conversion.  
+4️⃣ **Error Handling:** If a file fails to be processed, an error message is printed for that specific file.  
+
+---
+
+## 📂 Example Output
+
+After running the script, the converted `.txt` files will be saved in the `Output` directory within the specified directory.
+
 
