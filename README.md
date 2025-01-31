@@ -58,7 +58,7 @@ After running the script, the converted `.txt` files will be saved in the `Outpu
 
 ## 🔗 Related Projects
 
-- **Unicode-Kannada-to-Shreelipi Converter** – [View Repository](https://github.com/YathishPoojary98/Shreelipi-to-Unicode-Kannada-Converter)
+- **Shreelipi-to-Unicode Converter** – [View Repository](https://github.com/YathishPoojary98/Shreelipi-to-Unicode-Kannada-Converter)
 
 ---
 
