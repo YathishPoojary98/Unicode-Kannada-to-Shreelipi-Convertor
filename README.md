@@ -54,4 +54,13 @@ python3 convert_files.py /path/to/directory
 
 After running the script, the converted `.txt` files will be saved in the `Output` directory within the specified directory.
 
+---
+
+## 🔗 Related Projects
+
+- **Unicode-Kannada-to-Shreelipi Converter** – [View Repository](https://github.com/YathishPoojary98/Shreelipi-to-Unicode-Kannada-Converter)
+
+---
+
+
 
